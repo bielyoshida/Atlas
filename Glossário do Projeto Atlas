@@ -1,0 +1,297 @@
+# Glossário do Projeto Atlas
+
+Versão: 1.0
+Status: Documento de Referência
+Projeto: Atlas
+
+---
+
+# Objetivo
+
+Este glossário reúne as definições oficiais utilizadas pelo Projeto Atlas.
+
+Seu objetivo é garantir consistência entre toda a documentação e evitar ambiguidades na utilização dos termos.
+
+Sempre que um termo definido neste documento aparecer em outro documento do Atlas, deverá possuir exatamente o significado aqui estabelecido.
+
+---
+
+# A
+
+## Artefato
+
+Produto gerado pelo Diário Cognitivo a partir de um Registro Cognitivo.
+
+Os artefatos representam diferentes formas de organizar conhecimento.
+
+Exemplos:
+
+- Reflexão Organizada
+- Caminho da Reflexão
+- Lista de Conceitos
+- Lista de Assuntos
+- Hipóteses
+- Perguntas em Aberto
+- Mapa Cognitivo
+- Evolução dos Conceitos
+- Estrutura para Obsidian
+- Estrutura para Notion
+
+---
+
+# B
+
+## Base de Conhecimento
+
+Conjunto de todos os Registros Cognitivos, Conceitos, Hipóteses, Evidências, Perguntas e documentos produzidos pelo Atlas.
+
+Representa a memória permanente do sistema.
+
+---
+
+# C
+
+## Caminho da Reflexão
+
+Reconstrução da sequência lógica do pensamento.
+
+Seu objetivo é preservar como uma conclusão foi construída.
+
+É considerado um dos principais artefatos do Atlas.
+
+---
+
+## Carta de Fundação
+
+Documento que estabelece a identidade filosófica do Projeto Atlas.
+
+Responde por que o Atlas existe e quais princípios nunca devem ser alterados.
+
+---
+
+## Conceito
+
+Ideia abstrata identificada em um Registro Cognitivo.
+
+Os conceitos representam mecanismos psicológicos, padrões cognitivos ou temas recorrentes que podem aparecer em diferentes contextos.
+
+Exemplos:
+
+- Pertencimento
+- Identidade
+- Autonomia
+- Vulnerabilidade
+- Validação
+- Culpa
+
+Os conceitos possuem evolução histórica.
+
+---
+
+## Croqui
+
+Registro bruto produzido pelo autor antes de qualquer organização.
+
+O croqui preserva o pensamento espontâneo.
+
+Sua organização é responsabilidade do Diário Cognitivo.
+
+---
+
+# D
+
+## Diário Cognitivo
+
+Ambiente do Projeto Atlas responsável por transformar Registros Cognitivos em conhecimento estruturado.
+
+Sua função é produzir artefatos.
+
+Não substitui o processo reflexivo do autor.
+
+---
+
+# E
+
+## Engenharia do Atlas
+
+Ambiente responsável pela evolução metodológica do Atlas.
+
+É onde são desenvolvidos:
+
+- documentação;
+- arquitetura;
+- templates;
+- padrões;
+- metodologia.
+
+Não armazena reflexões pessoais.
+
+---
+
+## Especificação
+
+Documento técnico que descreve a arquitetura oficial do Projeto Atlas.
+
+Define como seus componentes se relacionam e funcionam.
+
+---
+
+## Evidência
+
+Trecho de um Registro Cognitivo que sustenta uma hipótese.
+
+Uma evidência fortalece ou enfraquece interpretações, mas não transforma hipóteses em fatos.
+
+---
+
+# G
+
+## Glossário
+
+Documento responsável por definir oficialmente todos os termos utilizados pelo Atlas.
+
+---
+
+# H
+
+## Hipótese
+
+Possível explicação levantada durante uma reflexão.
+
+Hipóteses nunca representam verdades estabelecidas.
+
+Podem ser:
+
+- fortalecidas;
+- modificadas;
+- enfraquecidas;
+- descartadas.
+
+Sempre permanecem vinculadas às evidências disponíveis.
+
+---
+
+# M
+
+## Manual do Diário Cognitivo
+
+Documento operacional que define o comportamento esperado da Inteligência Artificial dentro do Diário Cognitivo.
+
+---
+
+## Mapa Cognitivo
+
+Representação das relações existentes entre conceitos, assuntos, hipóteses, lembranças, emoções e conclusões provisórias.
+
+O mapa representa conexões e não hierarquias fixas.
+
+---
+
+# N
+
+## Notion
+
+Ferramenta utilizada para organização cronológica, consulta e navegação das reflexões.
+
+Não representa a memória oficial do Atlas.
+
+---
+
+# O
+
+## Obsidian
+
+Ferramenta utilizada como base permanente de conhecimento.
+
+Armazena documentação, conceitos, registros e conexões entre eles.
+
+---
+
+# P
+
+## Pergunta em Aberto
+
+Questão identificada durante um Registro Cognitivo que ainda não possui resposta consolidada.
+
+As perguntas representam oportunidades futuras de investigação.
+
+Nunca devem ser descartadas.
+
+---
+
+## Projeto Atlas
+
+Sistema pessoal de gestão do autoconhecimento.
+
+Seu objetivo é registrar, organizar e acompanhar a evolução do pensamento ao longo do tempo.
+
+---
+
+# R
+
+## README
+
+Documento introdutório do Projeto Atlas.
+
+Apresenta sua finalidade, organização e estrutura geral.
+
+---
+
+## Registro Cognitivo
+
+Unidade fundamental de informação do Atlas.
+
+Representa qualquer registro capaz de gerar conhecimento.
+
+Exemplos:
+
+- reflexão;
+- insight;
+- sonho;
+- conversa marcante;
+- sessão de terapia;
+- leitura;
+- decisão importante;
+- observação cotidiana.
+
+Todo Registro Cognitivo pode produzir artefatos.
+
+---
+
+## Reflexão Organizada
+
+Artefato produzido a partir de um Registro Cognitivo.
+
+Consiste na reorganização textual do pensamento preservando seu significado original.
+
+---
+
+# T
+
+## Tema para Terapia
+
+Questão identificada durante a organização de um Registro Cognitivo que pode ser explorada em acompanhamento terapêutico.
+
+O Atlas apenas identifica esses temas.
+
+Nunca propõe respostas definitivas.
+
+---
+
+# V
+
+## Versão
+
+Identificador utilizado para acompanhar a evolução da documentação oficial do Atlas.
+
+Toda alteração relevante deverá atualizar a versão correspondente.
+
+---
+
+# Considerações Finais
+
+Este glossário constitui a referência oficial de terminologia do Projeto Atlas.
+
+Novos termos deverão ser adicionados sempre que uma evolução metodológica introduzir conceitos ainda não documentados.
+
+Alterações nas definições existentes deverão ser registradas no CHANGELOG para preservar a consistência histórica da documentação.
