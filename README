@@ -1,0 +1,420 @@
+# Atlas
+
+> **O Atlas não registra apenas o que foi pensado. Ele registra como o pensamento foi construído.**
+
+Versão: 1.0  
+Status: Ativo  
+Data de criação: 19/07/2026
+
+---
+
+# O que é o Atlas?
+
+O Atlas é um sistema pessoal de gestão do autoconhecimento.
+
+Seu objetivo é registrar, organizar, conectar e acompanhar a evolução das reflexões ao longo do tempo, preservando não apenas as conclusões alcançadas, mas também o caminho cognitivo que levou até elas.
+
+O Atlas não é apenas um diário.
+
+Também não é apenas um segundo cérebro.
+
+Ele é um ambiente construído para compreender como os pensamentos surgem, se relacionam e evoluem.
+
+---
+
+# Objetivos
+
+O Atlas foi criado para:
+
+- registrar reflexões importantes sem perder espontaneidade;
+- preservar o caminho da reflexão;
+- organizar pensamentos complexos;
+- acompanhar a evolução de conceitos psicológicos;
+- identificar padrões recorrentes;
+- facilitar sessões de terapia;
+- criar uma memória estruturada da própria forma de pensar;
+- produzir um histórico de desenvolvimento pessoal ao longo dos anos.
+
+---
+
+# Filosofia do Projeto
+
+O Atlas parte de um princípio simples:
+
+> O processo vale mais do que a conclusão.
+
+Uma conclusão isolada possui pouco valor quando não se sabe como ela foi construída.
+
+Por esse motivo, o Atlas preserva:
+
+- o croqui inicial;
+- a reflexão organizada;
+- as conexões entre ideias;
+- as hipóteses levantadas;
+- as perguntas em aberto;
+- a evolução histórica dos conceitos.
+
+---
+
+# Componentes do Atlas
+
+O Atlas é composto por cinco pilares.
+
+## 1. Diário Cognitivo
+
+É o ambiente onde as reflexões são organizadas.
+
+Nele são produzidos:
+
+- organização do croqui;
+- estrutura da reflexão;
+- conceitos identificados;
+- perguntas abertas;
+- evolução histórica;
+- mapas cognitivos.
+
+O Diário Cognitivo nunca altera o sentido da reflexão original.
+
+Sua função é organizar.
+
+---
+
+## 2. Engenharia do Atlas
+
+É o ambiente responsável pela evolução do próprio sistema.
+
+Aqui são desenvolvidos:
+
+- documentação;
+- melhorias;
+- templates;
+- metodologia;
+- arquitetura;
+- padrões;
+- novas funcionalidades.
+
+Nenhuma reflexão pessoal deve ser registrada aqui.
+
+---
+
+## 3. Documentação
+
+A documentação representa a memória técnica do Atlas.
+
+Ela define como o sistema funciona.
+
+---
+
+## 4. Base de Conhecimento
+
+As reflexões organizadas são armazenadas utilizando ferramentas externas.
+
+Atualmente:
+
+- Obsidian
+- Notion
+
+Cada ferramenta possui um papel específico definido na Especificação do Projeto.
+
+---
+
+## 5. Controle de Versões
+
+Toda evolução da metodologia deve ser registrada.
+
+O objetivo é preservar não apenas a evolução pessoal do autor, mas também a evolução do próprio Atlas.
+
+---
+
+# Estrutura da Documentação
+
+O Atlas é composto pelos seguintes documentos.
+
+## Carta de Fundação
+
+Documento filosófico.
+
+Define a identidade do Atlas.
+
+Responde:
+
+- Por que o Atlas existe?
+- Quais princípios nunca devem mudar?
+- Como o sistema deve ser entendido?
+
+---
+
+## Manual do Diário Cognitivo
+
+Define como a Inteligência Artificial deve organizar cada reflexão.
+
+É o documento que orienta o comportamento do Diário Cognitivo.
+
+---
+
+## Especificação
+
+Define o funcionamento técnico do sistema.
+
+Inclui:
+
+- organização das ferramentas;
+- estrutura do Obsidian;
+- estrutura do Notion;
+- fluxo das reflexões;
+- mapas cognitivos;
+- convenções.
+
+---
+
+## Glossário
+
+Reúne todas as definições oficiais utilizadas pelo Atlas.
+
+Seu objetivo é manter consistência conceitual ao longo do tempo.
+
+---
+
+## CHANGELOG
+
+Registra toda modificação realizada na documentação e na metodologia.
+
+---
+
+# Ferramentas Utilizadas
+
+## ChatGPT
+
+Responsável por:
+
+- organizar reflexões;
+- comparar registros;
+- identificar padrões;
+- construir mapas cognitivos;
+- acompanhar evolução dos conceitos;
+- auxiliar na autorreflexão.
+
+---
+
+## Obsidian
+
+Responsável pelo armazenamento permanente.
+
+Nele ficam:
+
+- reflexões;
+- conceitos;
+- mapas;
+- documentação;
+- histórico.
+
+---
+
+## Notion
+
+Responsável pela organização diária.
+
+Seu foco é facilitar:
+
+- captura rápida;
+- navegação;
+- visualização cronológica;
+- consulta.
+
+---
+
+## GitHub
+
+Responsável por:
+
+- backup;
+- controle de versões;
+- histórico dos documentos oficiais do Atlas.
+
+---
+
+# Fluxo Geral
+
+O funcionamento do Atlas segue um ciclo contínuo.
+
+```text
+Reflexão
+
+↓
+
+Croqui
+
+↓
+
+ChatGPT (Diário Cognitivo)
+
+↓
+
+Reflexão organizada
+
+↓
+
+Mapa Cognitivo
+
+↓
+
+Obsidian
+
+↓
+
+Notion
+
+↓
+
+Novas reflexões
+
+↓
+
+Comparação histórica
+
+↓
+
+Atualização dos conceitos
+```
+
+Cada nova reflexão alimenta a compreensão das anteriores.
+
+---
+
+# Conceitos Fundamentais
+
+O Atlas diferencia dois elementos principais.
+
+## Assunto
+
+Representa sobre o que a reflexão trata.
+
+Exemplos:
+
+- amizade
+- trabalho
+- faculdade
+- família
+
+---
+
+## Conceito
+
+Representa mecanismos psicológicos percebidos durante a reflexão.
+
+Exemplos:
+
+- pertencimento
+- autonomia
+- validação
+- vulnerabilidade
+- identidade
+
+Os conceitos são acompanhados continuamente.
+
+Os assuntos apenas contextualizam a reflexão.
+
+---
+
+# Princípios do Projeto
+
+Todo desenvolvimento do Atlas deve respeitar os seguintes princípios.
+
+## Preservar o caminho da reflexão.
+
+Nunca resumir eliminando etapas importantes do raciocínio.
+
+---
+
+## Não substituir o autor.
+
+A IA organiza.
+
+O autor interpreta.
+
+---
+
+## Registrar hipóteses.
+
+Nem toda reflexão precisa terminar em uma conclusão.
+
+Perguntas importantes possuem tanto valor quanto respostas.
+
+---
+
+## Mostrar evolução.
+
+Sempre que possível comparar o presente com registros anteriores.
+
+---
+
+## Manter simplicidade.
+
+O Atlas deve reduzir o esforço necessário para refletir.
+
+Nunca aumentar.
+
+---
+
+# Público-alvo
+
+O Atlas foi desenvolvido inicialmente para uso pessoal.
+
+No entanto, sua arquitetura foi construída de forma suficientemente genérica para permitir futuras adaptações para outras pessoas interessadas em registrar e compreender sua própria evolução cognitiva.
+
+---
+
+# Estado Atual
+
+Versão atual: 1.0
+
+Nesta versão estão definidos:
+
+- identidade do projeto;
+- arquitetura geral;
+- documentação base;
+- integração entre ferramentas;
+- metodologia inicial.
+
+Os detalhes operacionais encontram-se nos documentos específicos.
+
+---
+
+# Organização do Repositório
+
+```text
+Atlas/
+
+├── README.md
+├── Carta de Fundação.md
+├── Manual do Diário Cognitivo.md
+├── Especificação.md
+├── Glossário.md
+├── CHANGELOG.md
+
+├── Obsidian/
+
+├── Notion/
+
+└── Exemplos/
+```
+
+---
+
+# Evolução
+
+O Atlas é um projeto vivo.
+
+Toda melhoria deve preservar os princípios definidos na Carta de Fundação.
+
+Novas funcionalidades somente devem ser adicionadas quando resolverem necessidades reais observadas durante o uso do sistema.
+
+---
+
+# Licença
+
+Este projeto foi criado para uso pessoal.
+
+Seu conteúdo representa uma metodologia de organização do pensamento e do autoconhecimento desenvolvida ao longo do tempo.
+
+Sua evolução é contínua e documentada por meio do controle de versões do próprio Atlas.
