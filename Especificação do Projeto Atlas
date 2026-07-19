@@ -1,0 +1,381 @@
+# Especificação do Projeto Atlas
+
+Versão: 1.0
+Status: Documento Técnico
+Projeto: Atlas
+
+---
+
+# 1. Objetivo
+
+Este documento define a arquitetura oficial do Projeto Atlas.
+
+Seu objetivo é descrever como os componentes do sistema se relacionam, quais responsabilidades cada um possui e qual é o fluxo completo de processamento de uma reflexão.
+
+Nenhuma decisão operacional deve contradizer esta especificação.
+
+---
+
+# 2. Visão Geral
+
+O Atlas é um sistema de gestão do autoconhecimento baseado na organização incremental de conhecimento pessoal.
+
+Sua arquitetura foi projetada para transformar reflexões espontâneas em uma base de conhecimento continuamente evolutiva.
+
+O sistema possui dois ambientes principais:
+
+- Engenharia do Atlas
+- Diário Cognitivo
+
+---
+
+# 3. Arquitetura
+
+```text
+                 Projeto Atlas
+                       │
+        ┌──────────────┴──────────────┐
+        │                             │
+Engenharia                     Diário Cognitivo
+        │                             │
+Documentação                  Reflexões
+Templates                     Artefatos
+Especificações                Mapas Cognitivos
+Evolução                      Base de Conhecimento
+```
+
+---
+
+# 4. Componentes
+
+## 4.1 Engenharia do Atlas
+
+Responsável pela evolução do sistema.
+
+Produz:
+
+- documentação;
+- padrões;
+- templates;
+- metodologia;
+- arquitetura;
+- convenções.
+
+Nunca armazena reflexões pessoais.
+
+---
+
+## 4.2 Diário Cognitivo
+
+Responsável pelo processamento das reflexões.
+
+Recebe croquis.
+
+Produz artefatos.
+
+Atualiza a base de conhecimento.
+
+---
+
+## 4.3 Base de Conhecimento
+
+Representa o conjunto organizado de todas as reflexões.
+
+Ela é composta por:
+
+- reflexões;
+- conceitos;
+- assuntos;
+- mapas;
+- histórico;
+- documentação.
+
+---
+
+# 5. Ferramentas
+
+Cada ferramenta possui uma única responsabilidade.
+
+## ChatGPT
+
+Processamento.
+
+Organização.
+
+Comparação.
+
+Análise.
+
+Produção de artefatos.
+
+---
+
+## Obsidian
+
+Armazenamento permanente.
+
+Links.
+
+Documentação.
+
+Mapas.
+
+Histórico.
+
+---
+
+## Notion
+
+Organização cronológica.
+
+Captura.
+
+Visualização.
+
+Consulta.
+
+---
+
+## GitHub
+
+Versionamento.
+
+Backup.
+
+Histórico da documentação.
+
+---
+
+# 6. Fluxo de Informação
+
+Todo registro percorre obrigatoriamente o seguinte fluxo.
+
+```text
+Experiência
+
+↓
+
+Reflexão
+
+↓
+
+Croqui
+
+↓
+
+Diário Cognitivo
+
+↓
+
+Artefatos
+
+↓
+
+Base de Conhecimento
+
+↓
+
+Comparação Histórica
+
+↓
+
+Atualização dos Conceitos
+```
+
+Nenhuma etapa deve ser removida.
+
+---
+
+# 7. Modelo de Dados
+
+Cada reflexão possui uma estrutura lógica.
+
+## Reflexão
+
+Uma reflexão é composta por:
+
+- identificador;
+- data;
+- título;
+- texto organizado;
+- assuntos;
+- conceitos;
+- hipóteses;
+- perguntas;
+- mapa cognitivo;
+- evolução;
+- artefatos derivados.
+
+---
+
+## Assunto
+
+Representa contexto.
+
+Não evolui.
+
+Serve apenas para classificar reflexões.
+
+---
+
+## Conceito
+
+Representa mecanismos abstratos.
+
+Possui histórico.
+
+É atualizado continuamente.
+
+---
+
+## Hipótese
+
+Representa uma possibilidade.
+
+Nunca é armazenada como verdade.
+
+Pode ser fortalecida, modificada ou abandonada ao longo do tempo.
+
+---
+
+## Evidência
+
+Representa trechos da reflexão que sustentam determinada hipótese.
+
+Uma hipótese pode possuir:
+
+- nenhuma evidência;
+- uma evidência;
+- diversas evidências.
+
+---
+
+## Pergunta
+
+Representa conhecimento ainda não consolidado.
+
+Perguntas nunca são descartadas.
+
+---
+
+# 8. Relações
+
+As relações entre elementos seguem o seguinte modelo.
+
+Uma reflexão:
+
+- possui vários assuntos;
+- possui vários conceitos;
+- possui várias hipóteses;
+- possui várias perguntas.
+
+Um conceito:
+
+- aparece em diversas reflexões;
+- conecta assuntos diferentes;
+- possui evolução histórica.
+
+Uma hipótese:
+
+- pode utilizar vários conceitos;
+- pode utilizar diversas evidências.
+
+---
+
+# 9. Artefatos
+
+Toda reflexão gera um conjunto de artefatos.
+
+Artefatos obrigatórios:
+
+- reflexão organizada;
+- caminho cognitivo;
+- assuntos;
+- conceitos;
+- hipóteses;
+- perguntas;
+- mapa cognitivo;
+- evolução dos conceitos.
+
+Artefatos opcionais:
+
+- Markdown para Obsidian;
+- estrutura para Notion;
+- imagem do mapa cognitivo;
+- resumo para terapia.
+
+---
+
+# 10. Evolução
+
+A evolução ocorre em dois níveis.
+
+## Evolução do Autor
+
+Representada pelas reflexões.
+
+---
+
+## Evolução do Atlas
+
+Representada pela documentação.
+
+As duas evoluções são independentes.
+
+---
+
+# 11. Convenções
+
+Todo conceito possui nome único.
+
+Todo assunto possui nome único.
+
+Toda hipótese deve indicar seu nível de confiança.
+
+Toda evidência deve apontar para o trecho da reflexão de onde foi extraída.
+
+---
+
+# 12. Persistência
+
+A documentação representa a memória permanente do sistema.
+
+As reflexões representam a memória permanente do autor.
+
+Nenhuma informação consolidada deve depender exclusivamente do histórico das conversas.
+
+---
+
+# 13. Compatibilidade
+
+Mudanças futuras deverão preservar compatibilidade com registros anteriores sempre que possível.
+
+Caso uma mudança estrutural torne isso inviável, deverá existir um plano de migração documentado.
+
+---
+
+# 14. Versionamento
+
+Toda alteração na documentação deverá atualizar:
+
+- CHANGELOG;
+- versão do documento;
+- data da alteração.
+
+---
+
+# 15. Critérios de Qualidade
+
+Uma implementação do Atlas será considerada compatível quando:
+
+✓ preservar a Carta de Fundação;
+
+✓ seguir o Manual do Diário Cognitivo;
+
+✓ respeitar esta Especificação;
+
+✓ produzir todos os artefatos obrigatórios;
+
+✓ manter rastreabilidade entre reflexões, conceitos, hipóteses e evidências;
+
+✓ permitir acompanhar a evolução histórica do pensamento do autor.
