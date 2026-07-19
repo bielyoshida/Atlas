@@ -1,0 +1,192 @@
+# CHANGELOG
+
+Todas as mudanças relevantes do Projeto Atlas serão registradas neste documento.
+
+Este projeto adota versionamento semântico adaptado à evolução da metodologia.
+
+## Convenções
+
+### MAJOR (X.0.0)
+
+Alterações que modificam significativamente a filosofia, arquitetura ou metodologia do Atlas.
+
+Exemplos:
+
+- mudança na estrutura do Diário Cognitivo;
+- alteração do modelo de conhecimento;
+- redefinição de conceitos fundamentais.
+
+---
+
+### MINOR (0.X.0)
+
+Novas funcionalidades ou componentes adicionados sem quebrar a compatibilidade com versões anteriores.
+
+Exemplos:
+
+- novos artefatos;
+- novos documentos;
+- novos templates;
+- novas integrações.
+
+---
+
+### PATCH (0.0.X)
+
+Correções, ajustes de redação, melhorias de clareza ou pequenas revisões que não alteram o funcionamento do sistema.
+
+---
+
+# Histórico
+
+---
+
+# Versão 1.0.0
+
+Data: DD/MM/AAAA
+
+## Primeira versão oficial do Projeto Atlas
+
+### Adicionado
+
+#### Estrutura do Projeto
+
+- Definição da arquitetura do Projeto Atlas.
+- Separação entre Engenharia do Atlas e Diário Cognitivo.
+- Definição da Base de Conhecimento.
+
+#### Filosofia
+
+- Criação da Carta de Fundação.
+- Definição dos princípios permanentes do Atlas.
+- Formalização da missão do projeto.
+
+#### Documentação
+
+Criação dos documentos oficiais:
+
+- Carta de Fundação
+- README
+- Manual do Diário Cognitivo
+- Especificação
+- Glossário
+- CHANGELOG
+
+#### Diário Cognitivo
+
+- Definição do fluxo operacional.
+- Definição dos artefatos produzidos.
+- Definição do comportamento esperado da IA.
+
+#### Modelo de Conhecimento
+
+Introdução dos conceitos oficiais:
+
+- Registro Cognitivo
+- Artefato
+- Assunto
+- Conceito
+- Hipótese
+- Evidência
+- Pergunta em Aberto
+- Mapa Cognitivo
+
+#### Arquitetura
+
+- Estrutura modular do Atlas.
+- Separação entre documentação e processamento das reflexões.
+- Modelo incremental da Base de Conhecimento.
+
+#### Integrações
+
+Definição das responsabilidades das ferramentas:
+
+- ChatGPT
+- Obsidian
+- Notion
+- GitHub
+
+---
+
+## Compatibilidade
+
+Esta versão estabelece a base oficial do Projeto Atlas.
+
+Não existem versões anteriores compatíveis.
+
+---
+
+# Modelo para futuras versões
+
+---
+
+# Versão X.Y.Z
+
+Data: DD/MM/AAAA
+
+## Resumo
+
+Breve descrição das alterações.
+
+### Adicionado
+
+-
+
+### Alterado
+
+-
+
+### Corrigido
+
+-
+
+### Removido
+
+-
+
+### Motivo da alteração
+
+Explicação da necessidade da mudança.
+
+### Impacto
+
+Descrição dos efeitos sobre a documentação, os artefatos ou a metodologia.
+
+### Compatibilidade
+
+Informar se a alteração é:
+
+- totalmente compatível;
+- parcialmente compatível;
+- incompatível com versões anteriores.
+
+### Documentos afetados
+
+- Carta de Fundação
+- README
+- Manual do Diário Cognitivo
+- Especificação
+- Glossário
+- Templates
+- Outros
+
+---
+
+# Diretrizes de manutenção
+
+Toda alteração metodológica relevante deverá:
+
+1. Atualizar este CHANGELOG.
+2. Atualizar a versão do documento afetado.
+3. Registrar a data da alteração.
+4. Explicar o motivo da mudança.
+5. Informar o impacto na compatibilidade.
+6. Manter rastreabilidade entre versões.
+
+---
+
+# Objetivo
+
+O CHANGELOG preserva a memória da evolução do Projeto Atlas.
+
+Ele garante que seja possível compreender não apenas o estado atual do sistema, mas também como e por que cada mudança foi introduzida ao longo do tempo.
